@@ -20,6 +20,7 @@ publishing:
 2. Run `npx dendron publish build`
 3. Export notes `npx dendron publish export`
 4. Copy exports to repo `cp -r .next/out docs`
+5. create a `.nojekyll`file: `touch docs/.nojekill`
 
 ## Lookup
 
